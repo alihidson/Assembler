@@ -11,7 +11,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/Users/ali/Main/Documents/Source/Assembler/cmake-build-debug"
+			"value" : "/Users/ali/Main/Documents/Source/Assembler/addi/cmake-build-debug"
 		},
 		{
 			"name" : "Assembler_IS_TOP_LEVEL",
@@ -35,7 +35,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/Users/ali/Main/Documents/Source/Assembler"
+			"value" : "/Users/ali/Main/Documents/Source/Assembler/addi"
 		},
 		{
 			"name" : "CMAKE_ADDR2LINE",
@@ -91,7 +91,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/Users/ali/Main/Documents/Source/Assembler/cmake-build-debug"
+			"value" : "/Users/ali/Main/Documents/Source/Assembler/addi/cmake-build-debug"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -419,7 +419,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/Users/ali/Main/Documents/Source/Assembler/cmake-build-debug/CMakeFiles/pkgRedirects"
+			"value" : "/Users/ali/Main/Documents/Source/Assembler/addi/cmake-build-debug/CMakeFiles/pkgRedirects"
 		},
 		{
 			"name" : "CMAKE_GENERATOR",
@@ -479,7 +479,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/Users/ali/Main/Documents/Source/Assembler"
+			"value" : "/Users/ali/Main/Documents/Source/Assembler/addi"
 		},
 		{
 			"name" : "CMAKE_INSTALL_NAME_TOOL",

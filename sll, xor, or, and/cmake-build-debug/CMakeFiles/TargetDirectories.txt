@@ -1,0 +1,3 @@
+/Users/ali/Main/Documents/Source/Assembler/sll, xor, or, and/cmake-build-debug/CMakeFiles/sll__xor__or__and.dir
+/Users/ali/Main/Documents/Source/Assembler/sll, xor, or, and/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/ali/Main/Documents/Source/Assembler/sll, xor, or, and/cmake-build-debug/CMakeFiles/rebuild_cache.dir

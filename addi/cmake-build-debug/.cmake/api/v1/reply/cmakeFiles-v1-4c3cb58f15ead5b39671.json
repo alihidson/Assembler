@@ -625,8 +625,8 @@
 	"kind" : "cmakeFiles",
 	"paths" : 
 	{
-		"build" : "/Users/ali/Main/Documents/Source/Assembler/cmake-build-debug",
-		"source" : "/Users/ali/Main/Documents/Source/Assembler"
+		"build" : "/Users/ali/Main/Documents/Source/Assembler/addi/cmake-build-debug",
+		"source" : "/Users/ali/Main/Documents/Source/Assembler/addi"
 	},
 	"version" : 
 	{

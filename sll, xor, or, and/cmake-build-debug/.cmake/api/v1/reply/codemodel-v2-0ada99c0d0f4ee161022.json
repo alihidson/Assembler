@@ -27,7 +27,7 @@
 					[
 						0
 					],
-					"name" : "Assembler",
+					"name" : "sll__xor__or__and",
 					"targetIndexes" : 
 					[
 						0
@@ -38,9 +38,9 @@
 			[
 				{
 					"directoryIndex" : 0,
-					"id" : "Assembler::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-Assembler-Debug-f824ae46012e862fbedf.json",
-					"name" : "Assembler",
+					"id" : "sll__xor__or__and::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-sll__xor__or__and-Debug-1d6cfbacbfd4cb9dfc1d.json",
+					"name" : "sll__xor__or__and",
 					"projectIndex" : 0
 				}
 			]
@@ -49,8 +49,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "/Users/ali/Main/Documents/Source/Assembler/cmake-build-debug",
-		"source" : "/Users/ali/Main/Documents/Source/Assembler"
+		"build" : "/Users/ali/Main/Documents/Source/Assembler/sll, xor, or, and/cmake-build-debug",
+		"source" : "/Users/ali/Main/Documents/Source/Assembler/sll, xor, or, and"
 	},
 	"version" : 
 	{

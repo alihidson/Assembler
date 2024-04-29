@@ -1,4 +1,4 @@
-# Install script for directory: /Users/ali/Main/Documents/Source/Assembler/addi
+# Install script for directory: /Users/ali/Main/Documents/Source/Assembler/sll, xor, or, and
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/Users/ali/Main/Documents/Source/Assembler/addi/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/Users/ali/Main/Documents/Source/Assembler/sll, xor, or, and/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
