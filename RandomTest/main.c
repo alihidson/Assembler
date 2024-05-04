@@ -36,6 +36,11 @@ int main() {
                 return 1;
             }
         }
+        else if (strcmp(instructions[i].instruction, "srai") == 0) {
+            if (scanf(" %s , %s , %x", instructions[i].rd, instructions[i].rs1, &instructions[i].immediate) != 3) {
+                return 1;
+            }
+        }
         else {
             if (scanf(" %s , %s , %s", instructions[i].rd, instructions[i].rs1, instructions[i].rs2) != 3) {
                 return 1;
@@ -110,6 +115,12 @@ int main() {
             machine_code += ((instructions[i].immediate & 0xfffff) << 12);
             machine_code += ((atoi(&instructions[i].rd[1]) & 0x1f) << 7);
             machine_code += 0x17;
+        }
+        else if (strcmp(instructions[i].instruction, "srai") == 0) {
+            machine_code += ((instructions[i].immediate & 0xfff) << 20);
+            machine_code += ((atoi(&instructions[i].rs1[1]) & 0x1f) << 15);
+            machine_code += ((atoi(&instructions[i].rd[1]) & 0x1f) << 7);
+            machine_code += 0x40005013;
         }
 
         printf("0x%08x\n", machine_code);

@@ -1,0 +1,3 @@
+/Users/ali/Main/Documents/Source/Assembler/srai/cmake-build-debug/CMakeFiles/srai.dir
+/Users/ali/Main/Documents/Source/Assembler/srai/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/ali/Main/Documents/Source/Assembler/srai/cmake-build-debug/CMakeFiles/rebuild_cache.dir
